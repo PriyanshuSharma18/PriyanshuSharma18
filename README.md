@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=3000&pause=1000&color=FF0000&width=435&lines=Hello+World!%2C+Priyanshu+this+side+!)
+
 # 💫 About Me:
 👋 Hi, I’m @PriyanshuSharma18<br>👀 I’m interested in<br>🌱 I’m currently learning DSA...<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me 18priyanshusharma@gmail.com<br>
 
