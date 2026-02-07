@@ -25,11 +25,18 @@
 
 
 
+### 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PriyanshuSharma18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuSharma18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuSharma18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Streak Stats Card -->
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=PriyanshuSharma18)
+
+
+<!-- Fast Stats Card -->
+![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=PriyanshuSharma18&show_icons=true&theme=radical)
+
+<!-- Profile Summary -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyanshuSharma18&theme=dracula)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
